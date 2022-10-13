@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "greet users",
+      "description":"say hello world!"
+    },
+    {
+      "id":2,
+      "title": "test free api",
+      "description": "self explanatory"
+    }
+  ]
+}
